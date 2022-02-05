@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ReactJS, Discrete Mathematics and Data Structures.
+- 🌱 I’m currently learning ReactJS, tailwindcss and Data Structures.
 
 <!--
 **lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
