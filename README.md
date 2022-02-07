@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🐧 I've been working on web projects quite a while now.
 - 🌱 I’m currently learning ReactJS, tailwindcss and Data Structures.
 
 <!--
