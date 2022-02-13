@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - 🐧 I've been working on web projects quite a while now.
 - 🌱 I’m currently learning ReactJS, tailwindcss and Data Structures.
 
@@ -8,13 +8,17 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on side projects.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ⚙️ Languages and Tools:
+---
+### ⏳ What am I learning lately?
+- authentication with firebase 
+---
+### ⚙️ Languages and Tools:
 
 <p align="left" dir="auto"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://camo.githubusercontent.com/da839b79b282a7658a172f07e13496fb18bcf9fa624d061def0e80f47a68ff1d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/javascript.png" style="max-width: 100%;"> </a> 
