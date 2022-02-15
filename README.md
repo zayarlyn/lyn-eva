@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ---
 ### ⏳ What am I learning lately?
-- authentication with firebase 
+- firebase auth
+- firestore 
 ---
 ### ⚙️ Languages and Tools:
 
