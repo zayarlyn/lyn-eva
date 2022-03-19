@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ---
 ### ⏳ What am I learning lately?
 - firebase auth
-- firestore 
-- react-beautiful-dnd
+- firestore
 ---
 ### ⚙️ Languages and Tools:
 
