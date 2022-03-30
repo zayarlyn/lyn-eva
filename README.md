@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🐧 I've been working on web projects quite a while now.
-- 🌱 I’m currently learning ReactJS, firebase, CS50.
+- 🌱 I’m currently learning firebase, framer motion and CS50.
 
 <!--
 **lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ---
 ### ⏳ What am I learning lately?
-- firebase auth
+- framer motion doc
 - CS50 week 4: Memory
 ---
 ### ⚙️ Languages and Tools:
