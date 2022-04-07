@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ---
 ### ⏳ What am I learning lately?
-- framer motion doc
-- CS50 week 4: Memory
+<!-- - framer motion doc -->
+- CS50 week 5: Data Structures
 ---
 ### ⚙️ Languages and Tools:
 
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank"> <img src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/python.png" style="max-width: 100%;"> </a> 
     <a href="https://www.firebase.google.com" target="_blank"> <img src="https://img.icons8.com/color/344/firebase.png" data-canonical-src="https://img.icons8.com/color/48/000000/python.png" style="width: 3rem;"> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/50px-Tailwind_CSS_Logo.svg.png" data-canonical-src="https://img.icons8.com/color/48/000000/git.png" style="max-width: 100%;"> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://camo.githubusercontent.com/bc60041f5ea7b022c6419b73a15aaac12a2ede682867ec0d3e3c9ec374dce54b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/git.png" style="max-width: 100%;"> </a> 
+<!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://camo.githubusercontent.com/bc60041f5ea7b022c6419b73a15aaac12a2ede682867ec0d3e3c9ec374dce54b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/git.png" style="max-width: 100%;"> </a>  -->
