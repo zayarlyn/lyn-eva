@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🐧 I've been working on web projects quite a while now.
-- 🌱 I’m currently learning firebase, framer motion and CS50.
+- 🌱 I’m currently learning framer motion and CS50.
 
 <!--
 **lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
