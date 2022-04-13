@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ---
 ### ⏳ What am I learning lately?
-<!-- - framer motion doc -->
-- CS50 week 5: Data Structures
+- framer motion doc
+- CS50 week 6
 ---
 ### ⚙️ Languages and Tools:
 
