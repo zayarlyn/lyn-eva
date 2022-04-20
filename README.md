@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 ### ⏳ What am I learning lately?
 - framer motion doc
-- CS50 week 6
+- CS50 week 7 SQL
 ---
 ### ⚙️ Languages and Tools:
 
