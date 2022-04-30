@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🐧 I've been working on web projects quite a while now.
-- 🌱 I’m currently learning framer motion and CS50.
+- 🌱 I’m currently learning Typescript and CS50.
 
 <!--
 **lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ---
 ### ⏳ What am I learning lately?
-- framer motion doc
-- CS50 week 8
+- Typescript
+- CS50 week 9 Flask
 ---
 ### ⚙️ Languages and Tools:
 
