@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ---
 ### ⏳ What am I learning lately?
-- Typescript
+- Typescript handbook
 - CS50 week 9 Flask
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn-eva&layout=compact&theme=dark)
