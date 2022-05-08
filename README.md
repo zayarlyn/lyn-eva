@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ---
 ### ⏳ What am I learning lately?
 - Typescript handbook
-- CS50 week 9 Flask
+- CS50 week 10 emoji
+- MUI
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn-eva&layout=compact&theme=dark)
 <!-- ### ⚙️ Languages and Tools: -->
