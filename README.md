@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - Typescript handbook
 - CS50 week 10 emoji
 - MUI
+- redux-toolkit
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn-eva&layout=compact&theme=dark)
 <!-- ### ⚙️ Languages and Tools: -->
