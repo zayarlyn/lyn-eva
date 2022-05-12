@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 ### ⏳ What am I learning lately?
 - Typescript handbook
-- CS50 week 10 emoji
+- CS50 final project
 - MUI
 - redux-toolkit
 ---
