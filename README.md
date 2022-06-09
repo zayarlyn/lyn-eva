@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🐧 I've been working on web projects quite a while now.
 - 🌱 I’m currently learning Typescript and NextJS.
-
+- 📫 How to reach me: ... [telegram](t.me/lyn_eva)
 <!--
 **lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
