@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🐧 I've been working on web projects quite a while now.
-- 🌱 I’m currently learning Typescript and NextJS.
+- 🌱 I’m currently learning Typescript, NextJS and SQL.
 - 📫 How to reach me: ... [telegram](t.me/lyn_eva)
 <!--
 **lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ---
 ### ⏳ What am I learning lately?
 - Typescript handbook
-- nextjs
+- nextjs rendering methods
+
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn-eva&layout=compact&theme=dark)
 <!-- ### ⚙️ Languages and Tools: -->
