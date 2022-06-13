@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🐧 I've been working on web projects quite a while now.
 - 🌱 I’m currently learning Typescript, NextJS, SQL and Maths.
-- 📫 How to reach me: ... [telegram](t.me/lyn_eva)
+- 📫 How to reach me: ... [telegram](https://t.me/lyn_eva)
 <!--
 **lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
