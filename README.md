@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🐧 I've been working on web projects quite a while now.
-- 🌱 I’m currently learning Express JS, databases and Maths.
+- 🌱 I’m currently learning NextJS, databases and Maths.
 - 📫 How to reach me: ... [telegram](https://t.me/lyn_eva)
 <!--
 **lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
