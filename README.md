@@ -1,24 +1,23 @@
 ## Hi there 👋
 - 🐧 I've been working on web projects quite a while now.
-- 🌱 I’m currently learning NextJS, databases and Maths.
+- 🌱 I’m currently learning databases and NodeJS.
 - 📫 How to reach me: ... [telegram](https://t.me/lyn_eva)
+- ⚡ Fun fact: nothing is fun
 <!--
 **lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on side projects.
 - 👯 I’m looking to collaborate on ...
-
 - 💬 Ask me about ...
-
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
 ---
 ### ⏳ What am I learning lately?
-- data modeling(relational)
-- api
-- pre-algebra
+- relational database design
+- nodejs fundamentals
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn-eva&layout=compact&theme=dark)
