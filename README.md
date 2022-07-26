@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 ### ⏳ What am I learning lately?
 - relational database design
-- nodejs fundamentals
+- expressjs
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn-eva&layout=compact&theme=dark)
