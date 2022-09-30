@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🐧 I've been working on web projects quite a while now.
 - 🌱 I’m currently learning databases and NodeJS.
-- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/lynee/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/lynee/)
 - ⚡ Fun fact: nothing is fun
 <!--
 **lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ---
 ### ⏳ What am I learning lately?
-- authorization
-- expressjs
+- algorithms
+- mongodb
 
 ---
 ## I am comfortable working with
