@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 ## I am comfortable working with
-[![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,mui,redux,nextjs,nodejs,express,mysql,prisma,firebase,python,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,mui,redux,nextjs,astro,nodejs,express,mysql,prisma,firebase,python,figma)](https://skillicons.dev)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn-eva&layout=compact&theme=dark) -->
 <!-- ### ⚙️ Languages and Tools: -->
