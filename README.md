@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ---
 ### ⏳ What am I learning lately?
-- algorithms
+- REST api design
 - mongodb
 
 ---
