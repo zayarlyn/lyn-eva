@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ---
 ### ⏳ What am I learning lately?
-- Testing(unit, e23)
+- Testing(unit, e2e)
 - mongodb
 
 ---
