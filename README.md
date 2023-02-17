@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ---
 ### ⏳ What am I learning lately?
-- graphql, Apollo
+- graphql, apollo, react native
 
 ---
 ## I am comfortable working with
