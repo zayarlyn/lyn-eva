@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🐧 I've been working on web projects quite a while now.
+<!--- - 🐧 I've been working on web projects quite a while now. --->
 - 🌱 I’m currently learning React Native.
 - 📫 How to reach me: [discord](https://discord.com/users/900400541899825202)
 - ⚡ Fun fact: nothing is fun
