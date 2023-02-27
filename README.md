@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 ## I am comfortable working with
-[![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,mui,redux,nextjs,astro,nodejs,express,mysql,postgras,prisma,graphql,apollo, firebase,python,docker,figma&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,react,mui,redux,nextjs,astro,nodejs,express,mysql,postgres,prisma,graphql,apollo,firebase,python,docker,figma&perline=15)](https://skillicons.dev)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn-eva&layout=compact&theme=dark) -->
 <!-- ### ⚙️ Languages and Tools: -->
